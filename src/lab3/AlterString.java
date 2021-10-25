@@ -11,7 +11,7 @@ public class AlterString {
 	        return true;
 	    }
 	 
-	    // Function that replaces consonant with next immediate consonant alphabatically
+	    
 	    static String alterString(char[] s)
 	    {
 	        // Start traversing the string
